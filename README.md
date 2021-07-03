@@ -22,7 +22,7 @@ Na imagem abaixo temos duas classes uma de produtos e outra de consumidores, ond
 
 
 
-![codigoHashMap](C:\Users\andre\eclipse-workspace\Trabalho_Map\img\codigoHashMap.png)
+![codigoHashMap](https://github.com/AndrewPolengolas/Estudo-Map/blob/main/img/codigoHashMap.png)
 
 
 
@@ -30,7 +30,7 @@ Na imagem abaixo temos duas classes uma de produtos e outra de consumidores, ond
 
 
 
-![OUTPUTHashMap](C:\Users\andre\eclipse-workspace\Trabalho_Map\img\OUTPUTHashMap.png)
+![OUTPUTHashMap](https://github.com/AndrewPolengolas/Estudo-Map/blob/main/img/OUTPUTHashMap.png)
 
 
 
@@ -38,13 +38,13 @@ Na imagem abaixo temos duas classes uma de produtos e outra de consumidores, ond
 
 Na imagem a seguir temos uma implementação parecida com o HashMap, entretanto na classe consumidor foi implementado o Comparable onde ele compara o numero do CPF dos clientes veja abaixo: 
 
-![ConsumidorTreeMap](C:\Users\andre\eclipse-workspace\Trabalho_Map\img\ConsumidorTreeMap.png)
+![ConsumidorTreeMap](https://github.com/AndrewPolengolas/Estudo-Map/blob/main/img/ConsumidorTreeMap.png)
 
 **CÓDIGO**
 
 
 
-![CODIGOTreeMap](C:\Users\andre\eclipse-workspace\Trabalho_Map\img\CODIGOTreeMap.png)
+![CODIGOTreeMap](https://github.com/AndrewPolengolas/Estudo-Map/blob/main/img/CODIGOTreeMap.png)
 
 
 
@@ -52,7 +52,7 @@ Na imagem a seguir temos uma implementação parecida com o HashMap, entretanto 
 
 
 
-![outputTreeMap](C:\Users\andre\eclipse-workspace\Trabalho_Map\img\outputTreeMap.png)
+![outputTreeMap](https://github.com/AndrewPolengolas/Estudo-Map/blob/main/img/outputTreeMap.png)
 
 
 
